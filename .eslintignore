@@ -1,0 +1,9 @@
+shell_scripts/*
+logs/*
+fonts/*
+images/*
+documents/*
+user-images/*
+user-documents/*
+node_modules/*
+client_bundled_modules/*
